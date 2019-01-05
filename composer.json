@@ -1,0 +1,11 @@
+{
+    "name": "samgan-khan/febie-core",
+    "description": "core for febie framework",
+    "authors": [
+        {
+            "name": "Mohd Samgan Khan",
+            "email": "mohdsamgankhan@gmail.com"
+        }
+    ],
+    "require": {}
+}
